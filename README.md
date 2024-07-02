@@ -1,7 +1,6 @@
 # PDF Node ID Extractor
 
-This repository contains an R script to extract specific Node IDs from PDF files and save them to an Excel file. The Node IDs follow a specific format such as `2019-[A-Z]+[0-9]{2,3}-[A-Z]*[0-9]*E?[0-9]*`.
-
+This repository contains an R script to extract Node IDs from PDF files and save them to an Excel file. 
 ## Features
 
 - Extracts Node IDs from PDF files.
